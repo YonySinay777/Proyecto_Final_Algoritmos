@@ -4,7 +4,7 @@ Ingrese Funcionalidad: es una estructura de control que valida una condición
 y nos permiten determinar qué acciones tomar dada o no cierta condición.
 
 
---------------------------------------
+======================================
 
 
 Ingrese Palabras: asm
@@ -12,16 +12,15 @@ Ingrese Traducción: ensamblandor
 Ingrese Funcionalidad: El lenguaje ensamblador o assembly es un lenguaje de programación de bajo nivel. Consiste en un conjunto de mnemónicos que representan instrucciones básicas para los computadores, microprocesadores, microcontroladores y otros circuitos integrados programables
 
 
-
--------------------------------------------
+======================================
 
 
 Ingrese Palabras: auto
-Ingrese Traducción:
+Ingrese Traducción:automático 
 Ingrese Funcionalidad:  permite la inicialización de variables sin especificar el tipo de origen. 
 
 
---------------------------------
+======================================
 
 
 Ingrese Palabras: bool
@@ -30,23 +29,21 @@ Ingrese Funcionalidad: La palabra-clave bool declara un tipo especial de variabl
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: break
 Ingrese Traducción: rompe la iteracion
 Ingrese Funcionalidad: La sentencia de 'break' es de tipo de control de bucles. Dentro de la iteracion en un bucle, de cualquiera de los tipos (while, do-while, for), el uso de esta sentencia rompe la iteracion de dicho bucle.
 
-
-------------------------------------------
+======================================
 
 Ingrese Palabras: case
 Ingrese Traducción:  caja
 Ingrese Funcionalidad:  Switch case es una estructura de control empleada en programación, se utiliza para agilizar la toma de decisiones múltiples, trabaja de la misma manera que lo harían sucesivos if, if else o until anidados, así como combinaciones propias de determinados lenguajes de programación.
 
 
-
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: catch
@@ -55,7 +52,7 @@ Ingrese Funcionalidad: Un bloque Catch define las instrucciones que deberán ejec
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: char
@@ -64,7 +61,7 @@ Ingrese Funcionalidad: El tipo de datos char sirve para representar o contener u
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: class
@@ -73,7 +70,7 @@ Ingrese Funcionalidad: Una clase puede pensarse como una colección de variables 
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: const
@@ -82,7 +79,7 @@ Ingrese Funcionalidad:  const se utiliza para hacer que un objeto-dato, señalado
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: const_cast 
@@ -90,8 +87,7 @@ Ingrese Traducción: operador
 Ingrese Funcionalidad: Se usa para eliminar o añadir los modificadores const y volatile de una expresión. Por eso, tanto tipo como expresión deben ser del mismo tipo, salvo por los modificadores const o volatile que tengan que aparecer o desaparecer.
 
 
-
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: continue
@@ -99,8 +95,7 @@ Ingrese Traducción: continuar
 Ingrese Funcionalidad: Se utiliza para saltarse el resto de la pasada actual a través de un bucle. El bucle no termina cuando se encuentra una sentencia continue, sencillamente no se ejecutan las sentencias que se encuentren a continuación en él, y se salta directamente a la siguiente pasada a través del bucle.
 
 
-
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: default
@@ -109,7 +104,7 @@ Ingrese Funcionalidad: Default. La sentencia default se utiliza en los bloques s
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: delete 
@@ -117,8 +112,7 @@ Ingrese Traducción: Eliminar
 Ingrese Funcionalidad: La instrucción DELETE permite eliminar uno o múltiples registros. Incluso todos los registros de una tabla, dejándola vacía. ... De otro modo podríamos eliminar muchos registros que no pretendíamos o incluso, en un caso extremo, borrar de un plumazo todas las filas de la tabla.
 
 
-
------------------------------------------
+======================================
 
 
 Ingrese Palabras: do
@@ -127,7 +121,7 @@ Ingrese Funcionalidad: La instrucción do ejecuta una instrucción o un bloque de 
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: double
@@ -136,7 +130,7 @@ Ingrese Funcionalidad: El modo de representar los números reales en la memoria d
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: dynamic_cast 
@@ -144,8 +138,7 @@ Ingrese Traducción: reparto dinámico
 Ingrese Funcionalidad: dynamic_cast<tipo> (<objeto>); Se usa para hacer cambios de tipo durante la ejecución. ... Lo que el programa intentará hacer, durante la ejecución, es obtener bien un puntero o bien una referencia a un objeto de cierta clase base en forma de clase derivada, pero puede que se consiga, o puede que no.
 
 
-
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: else
@@ -154,7 +147,7 @@ Ingrese Funcionalidad: La estructura de control if ... else ... permite que un p
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: enum 
@@ -163,7 +156,7 @@ Ingrese Funcionalidad: Una enumeración o Enum, es un tipo de dato que nos permit
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: explicit
@@ -172,7 +165,7 @@ Ingrese Funcionalidad: Cuando se hace uso del término para la declaración de una
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: extern
@@ -181,7 +174,7 @@ Ingrese Funcionalidad: Cuando se hace uso del término para la declaración de una
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: false
@@ -190,7 +183,7 @@ Ingrese Funcionalidad: UN TIPO DE VARIABLE CON DOS VALORES POSIBLES. Con el fin 
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: float
@@ -199,7 +192,7 @@ Ingrese Funcionalidad: Float en programación es un Tipo de dato que representa l
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: for
@@ -208,7 +201,7 @@ Ingrese Funcionalidad: Un for en programación se usa cuando queremos repetir un 
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: friend
@@ -217,7 +210,7 @@ Ingrese Funcionalidad: Una función friend de una clase es una función que no per
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: goto
@@ -226,7 +219,7 @@ Ingrese Funcionalidad: GOTO es una instrucción propia de los primeros lenguajes 
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: if
@@ -235,7 +228,7 @@ Ingrese Funcionalidad: Un if en programación se utiliza para evaluar una expresi
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: inline 
@@ -244,7 +237,7 @@ Ingrese Funcionalidad: Se conocen como funciones inline a las funciones que, al 
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: int
@@ -252,7 +245,7 @@ Ingrese Traducción: tipo de variable que almacena un numero positivo o negativo
 Ingrese Funcionalidad: almacena un valor entero como pueden ser :3, 5, 8 ,1 ,-2 , -6 Esto significa que al asignar una variable entera a otra variable entera, se copia el valor de la primera en el espacio que ocupa la segunda variable.
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: long
@@ -261,7 +254,7 @@ Ingrese Funcionalidad: Las variables de este tipo almacenan números en formato d
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: mutable
@@ -270,7 +263,7 @@ Ingrese Funcionalidad: En programación orientada a objetos y programación funcio
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: namespace
@@ -280,7 +273,7 @@ Ingrese Funcionalidad: Un namespace, no es más que una forma de crear un bloque,
 
 
 
-------------------------------------------
+======================================
 
 
 
@@ -291,7 +284,7 @@ Ingrese Funcionalidad: El operador new permite a los desarrolladores crear una i
 
 
 
-------------------------------------------
+======================================
 
 
 
@@ -302,7 +295,7 @@ Ingrese Funcionalidad: Los operadores son un tipo de símbolo que pueden aparecer
 
 
 
-------------------------------------------
+======================================
 
 
 
@@ -312,7 +305,7 @@ Ingrese Funcionalidad: Mantener variables/funciones privadas permiten tener un m
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: protected
@@ -321,7 +314,7 @@ Ingrese Funcionalidad: Básicamente significa que, si una clase hereda de otra, t
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: public
@@ -330,7 +323,7 @@ Ingrese Funcionalidad: Una variable/función pública puede ser accedida desde fue
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: register
@@ -339,7 +332,7 @@ Ingrese Funcionalidad: Un registro, en programación, es un tipo de dato estructu
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: reinterpret_cast
@@ -348,7 +341,7 @@ Ingrese Funcionalidad: Es un tipo de expresión que .Se usa para hacer cambios de
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: return
@@ -357,7 +350,7 @@ Ingrese Funcionalidad: La sentencia return tiene dos usos importantes. Primero, 
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: short
@@ -366,7 +359,7 @@ Ingrese Funcionalidad: El tipo entero short tiene el tamaño de 2 bytes (16 bits)
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: signed 
@@ -375,7 +368,7 @@ Ingrese Funcionalidad: El modificador de tipo signed define que el valor de una 
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: sizeof
@@ -384,7 +377,7 @@ Ingrese Funcionalidad: se utiliza para calcular el tamaño de una tabla, estructu
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: static
@@ -393,7 +386,7 @@ Ingrese Funcionalidad: En el lenguaje de programación C se usa static con variab
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: static_cast
@@ -402,7 +395,7 @@ Ingrese Funcionalidad: Este operador realiza una conversión de tipo durante la c
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: struct 
@@ -411,7 +404,7 @@ Ingrese Funcionalidad: La palabra reservada struct indica se está definiendo una
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: switch 
@@ -420,7 +413,7 @@ Ingrese Funcionalidad: Switch case es una estructura de control empleada en prog
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: template 
@@ -429,7 +422,7 @@ Ingrese Funcionalidad: Una plantilla es una manera especial de escribir funcione
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: this 
@@ -438,7 +431,7 @@ Ingrese Funcionalidad: la palabra reservada “this” se emplea, dentro de una clas
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: throw
@@ -447,7 +440,7 @@ Ingrese Funcionalidad: Esta palabra reservada , Las excepciones se usan para ind
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: true 
@@ -455,7 +448,7 @@ Ingrese Traducción: representa valores lógicos binarios
 Ingrese Funcionalidad: UN TIPO DE VARIABLE CON DOS VALORES POSIBLES. Con el fin de facilitar la escritura y razonamientos de programas se admite el uso de variables bipolares o que sólo admiten dos valores: verdadero (true) o falso (false).
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: Try
@@ -464,7 +457,7 @@ Ingrese Funcionalidad: Try se utiliza cuando se desean prever excepciones en el 
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: typedef
@@ -473,7 +466,7 @@ Ingrese Funcionalidad: typedef es una palabra reservada en el lenguaje de progra
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: typeid 
@@ -482,7 +475,7 @@ Ingrese Funcionalidad: La palabra clave typeid identifica un operador con el que
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: typename
@@ -491,7 +484,7 @@ Ingrese Funcionalidad: La palabra clave typename es un especificador de tipo. In
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: unión
@@ -500,7 +493,7 @@ Ingrese Funcionalidad: Las uniones proporcionan una forma de manipular diferente
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: unsigned 
@@ -509,7 +502,7 @@ Ingrese Funcionalidad: Actúan como un tipo de dato para enteros, números sin pun
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: using
@@ -518,7 +511,7 @@ Ingrese Funcionalidad: La palabra reservada using tiene diversos usos en el leng
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: virtual
@@ -527,7 +520,7 @@ Ingrese Funcionalidad: En programación orientada a objetos (POO), una función vi
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: void
@@ -536,7 +529,7 @@ Ingrese Funcionalidad: La palabra reservada void define en C++ el concepto de no
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: volatile
@@ -545,7 +538,7 @@ Ingrese Funcionalidad: El modificador volatile quiere decir: Esta variable no só
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: volatile
@@ -554,7 +547,7 @@ Ingrese Funcionalidad: El modificador volatile quiere decir: Esta variable no só
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: while Ingrese Traducción: ciclo que repite una sentencia 
@@ -562,7 +555,7 @@ Ingrese Funcionalidad: Un ciclo es cualquier construcción de programa que repite
 
 
 
-------------------------------------------
+======================================
 
 
 
@@ -570,7 +563,7 @@ Ingrese Funcionalidad: Un ciclo es cualquier construcción de programa que repite
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: Código máquina
@@ -579,7 +572,7 @@ Ingrese Funcionalidad: En Programación, se define como el Código Máquina a aquel
 
 
 
-------------------------------------------
+======================================
 
 Ingrese Palabras: Comando
 Ingrese Traducción: ordenes que el usuario priorizo a un sistema informático 
@@ -587,7 +580,7 @@ Ingrese Funcionalidad: Una orden/instrucción (también conocida con el extendido 
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: Compilador
@@ -596,7 +589,7 @@ Ingrese Funcionalidad: Es el proceso por el cual se traducen las instrucciones e
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: Constante
@@ -605,7 +598,7 @@ Ingrese Funcionalidad: En programación, una constante es un valor que no puede s
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: GHz
@@ -614,7 +607,7 @@ Ingrese Funcionalidad: El gigahertz (GHZ) es utilizado para describir la velocid
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: Intérprete.
@@ -623,7 +616,7 @@ Ingrese Funcionalidad: En ciencias de la computación, intérprete o interpretador
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: Lenguaje de Alto Nivel
@@ -632,7 +625,7 @@ Ingrese Funcionalidad: Tienen como objetivo facilitar el trabajo del programador
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: Lenguaje de Bajo Nivel
@@ -641,7 +634,7 @@ Ingrese Funcionalidad: Un lenguaje de programación de características de bajo ni
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: Lenguaje de programación
@@ -650,7 +643,7 @@ Ingrese Funcionalidad: La función principal de los lenguajes de programación es 
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: Lenguaje natural.
@@ -659,7 +652,7 @@ Ingrese Funcionalidad: Lenguaje utilizado normalmente por las personas. El objet
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: Memoria
@@ -668,7 +661,7 @@ Ingrese Funcionalidad: dispositivo que retiene, memoriza o almacena datos inform
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: Pseudocódigo
@@ -677,7 +670,7 @@ Ingrese Funcionalidad: Herramienta de análisis de programación. El pseudocódigo 
 
 
 
-------------------------------------------
+======================================
 
 
 Ingrese Palabras: ASCII.
@@ -687,5 +680,5 @@ Ingrese Funcionalidad: (Código Estándar Americano para el Intercambio de Informa
 
 
 
---------------------------------Gracias !!--------------------------------
+------------------------------>>Gracias !!<<------------------------------
 
