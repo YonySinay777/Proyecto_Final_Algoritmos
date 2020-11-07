@@ -1,0 +1,311 @@
+main
+principal
+La función main sirve como punto de partida para la ejecución del programa.
+
+string
+cadena
+Cadena de caracteres de determinada longitud.
+
+endl
+finalizar
+Es un salto de linea con retroceso.
+
+exit
+salir
+La función exit permite finalizar de forma controlada un programa.
+
+cin
+entrada
+Es el flujo de entrada estándar que normalmente es el teclado.
+
+cout
+salida
+Es el flujo de salida estándar que por lo general es la pantalla.
+
+if
+si
+es una estructura de control que valida una condición y nos permiten determinar qué acciones tomar dada o no cierta condición.
+
+asm
+ensamblandor
+El lenguaje ensamblador o assembly es un lenguaje de programación de bajo nivel. Consiste en un conjunto de mnemónicos que representan instrucciones básicas para los computadores, microprocesadores, microcontroladores y otros circuitos integrados programables
+
+auto
+automático 
+permite la inicialización de variables sin especificar el tipo de origen. 
+
+bool
+booleana
+La palabra-clave bool declara un tipo especial de variable, denominada booleana ( 0.1) que solo puede tener dos valores: cierto y falso [1]. Nota: por razón de los valores que pueden adoptar (cierto/falso), a estas variables también se las denomina variables lógicas.
+
+break
+rompe la iteracion
+La sentencia de 'break' es de tipo de control de bucles. Dentro de la iteracion en un bucle, de cualquiera de los tipos (while, do-while, for), el uso de esta sentencia rompe la iteracion de dicho bucle.
+
+ase
+caja
+Switch case es una estructura de control empleada en programación, se utiliza para agilizar la toma de decisiones múltiples, trabaja de la misma manera que lo harían sucesivos if, if else o until anidados, así como combinaciones propias de determinados lenguajes de programación.
+
+catch
+instrucciones
+Un bloque Catch define las instrucciones que deberán ejecutarse en caso de que se produzca un determinado tipo de excepción. catch señala un bloque de instrucciones a intentar ( try ), y especifica una respuesta si se produce una excepción ( catch )
+
+char
+variable de tipo entero 
+El tipo de datos char sirve para representar o contener un solo carácter. Un byte y un char son la misma cosa, excepto porque char se utiliza como carácter, o como parte de una cadena de caracteres, y no se puede utilizar en una expresión aritmética, mientras que un byte solamente puede ser usado como un tipo numérico.
+
+class
+Clase 
+Una clase puede pensarse como una colección de variables (atributos o propiedades) y funciones (métodos) que permiten representar un conjunto de datos y especificar las operaciones o procedimientos que permiten manipular tales datos.
+
+const
+constante
+const se utiliza para hacer que un objeto-dato, señalado por un identificador, no pueda ser modificado a lo largo del programa. El término es mayormente usado en el contexto de C o C++, y recibe su nombre de la palabra reservada const de estos lenguajes.
+
+const_cast
+operador
+Se usa para eliminar o añadir los modificadores const y volatile de una expresión. Por eso, tanto tipo como expresión deben ser del mismo tipo, salvo por los modificadores const o volatile que tengan que aparecer o desaparecer.
+
+continue
+continuar
+Se utiliza para saltarse el resto de la pasada actual a través de un bucle. El bucle no termina cuando se encuentra una sentencia continue, sencillamente no se ejecutan las sentencias que se encuentren a continuación en él, y se salta directamente a la siguiente pasada a través del bucle.
+
+default
+el defecto
+Default. La sentencia default se utiliza en los bloques switch junto con los case. Si no existe concordancia de la <variable switch> con ninguno de los valores case, se ejecuta la sentencia por defecto, señalada por default.
+
+delete 
+Eliminar
+La instrucción DELETE permite eliminar uno o múltiples registros. Incluso todos los registros de una tabla, dejándola vacía. ... De otro modo podríamos eliminar muchos registros que no pretendíamos o incluso, en un caso extremo, borrar de un plumazo todas las filas de la tabla.
+
+do
+hacer
+La instrucción do ejecuta una instrucción o un bloque de instrucciones mientras que una expresión booleana especificada se evalúa como true . ... Como esa expresión se evalúa después de cada ejecución del bucle, un bucle do-while se ejecuta una o varias veces.
+
+double
+doble
+El modo de representar los números reales en la memoria del ordenador se rige por el estándar IEEE 754 y no depende de las plataformas, sistemas operativos y lenguajes de programación. El nombre double significa que la precisión de estos números es dos veces más que la precisión de los números del tipo float.
+
+dynamic_cast 
+reparto dinámico
+dynamic_cast<tipo> (<objeto>); Se usa para hacer cambios de tipo durante la ejecución. ... Lo que el programa intentará hacer, durante la ejecución, es obtener bien un puntero o bien una referencia a un objeto de cierta clase base en forma de clase derivada, pero puede que se consiga, o puede que no.
+
+else
+entonces
+La estructura de control if ... else ... permite que un programa ejecute unas instrucciones cuando se cumple una condición y otras instrucciones cuando no se cumple esa condición. En inglés "if" significa "si" (condición) y "else" significa "si no".
+
+enum 
+enumeración
+Una enumeración o Enum, es un tipo de dato que nos permite crear una variable, que define todos los posibles valores fijos que pueda contener. Un tipo de enumeración consiste en un conjunto de constantes denominado lista de enumeradores.
+
+explicit
+declaración de una variable explicita
+Cuando se hace uso del término para la declaración de una variable, extern hace saber al compilador que la variable se va a encontrar en la tabla de símbolos de otra unidad. Se utiliza para exponer variables pertenecientes a un archivo a uno o varios archivos adicionales.
+
+extern
+variable externa
+Cuando se hace uso del término para la declaración de una variable, extern hace saber al compilador que la variable se va a encontrar en la tabla de símbolos de otra unidad. Se utiliza para exponer variables pertenecientes a un archivo a uno o varios archivos adicionales.
+
+false
+variable con dos posibles valores 
+UN TIPO DE VARIABLE CON DOS VALORES POSIBLES. Con el fin de facilitar la escritura y razonamientos de programas se admite el uso de variables bipolares o que sólo admiten dos valores: verdadero (true) o falso (false).
+
+float
+dato que simboliza 4 bytes 
+Float en programación es un Tipo de dato que representa la cantidad de 4 bytes, son utilizados para representar números decimales también como números enteros con orden de magnitud más grande.
+
+for
+bucle o ciclo  de estructura de control
+Un for en programación se usa cuando queremos repetir un conjunto de instrucciones un número finito de veces. ... En programación existen los bucles, como puede ser escribir con while o for.
+
+friend
+función que puede ingresar a diferentes funciones o variables 
+Una función friend de una clase es una función que no pertenece a la clase, pero que tiene permiso para acceder a sus variables y funciones miembro privadas por medio de los operadores punto (.) ... Si una clase se declara friend de otra, todas sus funciones miembro son friend de esta segunda clase.
+
+goto
+instrucción que transfiere código
+GOTO es una instrucción propia de los primeros lenguajes de programación, como BASIC. Esta instrucción suele existir en todos los lenguajes aunque con un mnemónico adaptado al propio lenguaje. El propósito de la instrucción es transferir el control a un punto determinado del código, donde debe continuar la ejecución.
+
+inline 
+función que no es compilada
+Se conocen como funciones inline a las funciones que, al compilar, no son llamadas en el código objeto, sino insertadas en la sección del código donde se las llame.
+
+int
+entero
+almacena un valor entero como pueden ser :3, 5, 8 ,1 ,-2 , -6 Esto significa que al asignar una variable entera a otra variable entera, se copia el valor de la primera en el espacio que ocupa la segunda variable.
+
+long
+variable de números enteros
+Las variables de este tipo almacenan números en formato de coma flotante, mantisa y exponente, al igual que float, pero usan una precisión mayor, a costa de usar más memoria, claro. Son aptos para variables de tipo real.
+
+mutable
+función que puede ser editada
+En programación orientada a objetos y programación funcional un «objeto inmutable» es un objeto cuyo estado no puede ser modificado una vez creado.  Es el opuesto a los «objetos mutables», que pueden ser modificados tras su creación.
+
+namespace
+conjunto de elementos con nombres unicos
+Un namespace, no es más que una forma de crear un bloque, y que todas las funciones que estén dentro del mismo, estén asociadas a ese namespace (o espacio de nombres), al cual se le asigna un nombre para identificarlo. En este ejemplo, la función f está asociada al namespace hola. 
+
+new
+creación de un nuevo objeto 
+El operador new permite a los desarrolladores crear una instancia de un tipo de objeto definido por el usuario o de uno de los tipos de objeto integrados que tiene un función constructora.
+
+operator
+símbolos que indican cómo se deben manipular los operandos
+Los operadores son un tipo de símbolo que pueden aparecer en las expresiones, e indican al compilador la realización de determinadas operaciones matemáticas, lógicas y numéricas. Se pueden aplicar a variables u otros objetos denominados operandos y su efecto es una combinación de las siguientes acciones.
+
+private
+funciones privadas
+Mantener variables/funciones privadas permiten tener un mayor control sobre la clase, sobre el modo como procesa sus métodos, como maneja sus variables, etc. Para declarar una variable/función como privada, se le antepone la palabra clave “private”.
+
+protected
+protección de una super clase
+Básicamente significa que, si una clase hereda de otra, tendrá acceso a las variables/funciones protegidas de la super-clase, de lo contrario, no podrá acceder a ellas. Para declarar una variable como protegida, se le antepone la palabra clave “protected.
+
+public
+variable publica
+Una variable/función pública puede ser accedida desde fuera de la clase. Es decir, puedo acceder desde la instancia de la clase y no sólo desde el código interno de la clase. Para declarar una variable/función como pública, se le antepone la palabra clave “public.
+
+register
+datos de registro
+Un registro, en programación, es un tipo de dato estructurado formado por la unión de varios elementos bajo una misma estructura. Estos elementos pueden ser, o bien datos elementales (entero, real, carácter,...), o bien otras estructuras de datos. A cada uno de esos elementos se le llama campo.
+
+reinterpret_cast
+modelo de reinterpretación 
+Es un tipo de expresión que .Se usa para hacer cambios de tipo a nivel de bits, es decir, el valor de la "expresión" se interpreta como si fuese un objeto del tipo "tipo".
+
+return
+retorno
+La sentencia return tiene dos usos importantes. Primero, fuerza una salida inmediata de la función en que se encuentra. O sea, hace que la ejecución del programa vuelva al código que llamó a la función. En segundo lugar, se puede utilizar para devolver un valor.
+
+short
+variable que representa un tipo de dato de 16 bits con signo
+El tipo entero short tiene el tamaño de 2 bytes (16 bits), permite representar la multitud de valores igual a 2 elevado a 16: 2^16 = 65 536. Puesto que el tipo short es con signos y contiene los valores tanto positivos, como negativos, el rango de valores se oscila entre -32 768 y 32 767.
+
+signed 
+delimita variables positivas o negativas 
+El modificador de tipo signed define que el valor de una variable numérica puede ser positivo o negativo. Este modificador puede ser aplicado a los tipos básicos int, char, long, short y __int64.
+
+sizeof
+modificador de tipo de dato 
+se utiliza para calcular el tamaño de una tabla, estructura o variable. Esta palabra reservada se utiliza como si fuera una función del lenguaje, indicando, entre paréntesis, el nombre del dato y devolviendo el número de elementos (posiciones) del mismo.
+
+static
+restringe su ámbito en el archivo 
+En el lenguaje de programación C se usa static con variables globales y funciones para restringir su ámbito al archivo donde se definen. Con variables locales, static se usa para almacenar la variable en la memoria asignada de forma estática en lugar de en la memoria asignada de forma automática.
+
+static_cast
+limita el código durante la ejecución 
+Este operador realiza una conversión de tipo durante la compilación del programa, de modo que no crea más código durante la ejecución, descargando esa tarea en el compilador.
+
+struct 
+estructura 
+La palabra reservada struct indica se está definiendo una estructura. ... La definición de struct ejemplo contiene un miembro de tipo char y otro de tipo int. Los miembros de una estructura pueden ser variables de los tipos de datos básicos (int, char, float,etc) o agregados como ser arreglos y otras estructuras.
+
+switch 
+estructura de control
+Switch case es una estructura de control empleada en programación, se utiliza para agilizar la toma de decisiones múltiples, trabaja de la misma manera que lo harían sucesivos if, if else o until anidados, así como combinaciones propias de determinados lenguajes de programación.
+
+template 
+repartimiento de funciones
+Una plantilla es una manera especial de escribir funciones y clases para que estas puedan ser usadas con cualquier tipo de dato, similar a la sobrecarga, en el caso de las funciones, pero evitando el trabajo de escribir cada versión de la función.
+
+this 
+solicitud de una clase 
+la palabra reservada “this” se emplea, dentro de una clase, para referirse a la instancia actual de dicha clase. Resulta necesario para poder pasar una referencia a de dicha instancia a un método externo (que esté definido en otra clase).
+
+throw
+error en la  ejecución
+Esta palabra reservada , Las excepciones se usan para indicar que se ha producido un error mientras se ejecutaba el programa. Exceptions are used to indicate that an error has occurred while running the program. Se crean los objetos de excepción que describen un error y, luego, se producen con la palabra clave throw.
+
+true 
+representa valores lógicos binarios 
+UN TIPO DE VARIABLE CON DOS VALORES POSIBLES. Con el fin de facilitar la escritura y razonamientos de programas se admite el uso de variables bipolares o que sólo admiten dos valores: verdadero (true) o falso (false).
+
+typedef
+asignación de nombre alternativo 
+typedef es una palabra reservada en el lenguaje de programación C y C++. Su función es asignar un nombre alternativo a tipos existentes, a menudo cuando su declaración normal es aparatosa, potencialmente confusa o probablemente variable de una implementación a otra.
+
+typeid 
+obtención de tipo objeto y expresión 
+La palabra clave typeid identifica un operador con el que puede obtenerse el tipo de objetos y expresiones en tiempo de ejecución. Permite comprobar si un objeto es de un tipo particular, y si dos objetos son del mismo tipo.
+
+typename
+identificador 
+La palabra clave typename es un especificador de tipo. Indica justamente eso, que el identificador que la acompaña es un tipo (aunque no se haya definido todavía). Una especie de declaración adelantada para que el compilador no lo rechace (al identificador) y lo tome como tal.
+
+unión
+objeto integrado por datos 
+Las uniones proporcionan una forma de manipular diferentes clases de datos dentro de una sola área de almacenamiento. En cualquier momento una union puede contener un máximo de un objeto debido a que los miembros de una union comparten el espacio de almacenamien- to.
+
+unsigned 
+datos de tipo entero 
+Actúan como un tipo de dato para enteros, números sin punto decimal. Los enteros sin signo pueden ser tan grandes como 65535 y tan pequeños como 0. Son almacenados como 16 bits de información.
+
+using
+Ingrese Traducción: importa espacio de nombres
+Ingrese Funcionalidad: La palabra reservada using tiene diversos usos en el lenguaje C#, y seguro que muchos la utilizamos exclusivamente para importar espacios de nombres (namespaces), ignorando el resto de posibilidades que nos ofrece: Importación de espacios de nombres. Definición de alias, tanto de espacios de nombres como de tipos.
+
+virtual
+función aplicada a objetos  
+En programación orientada a objetos (POO), una función virtual o método virtual es una función cuyo comportamiento, al ser declarado "virtual", es determinado por la definición de una función con la misma cabecera en alguna de sus subclases.
+
+void
+Función con tipo de retorno nulo
+La palabra reservada void define en C++ el concepto de no existencia o no atribución de un tipo en una variable o declaración. Es decir, una función declarada como void no devolverá ningún valor. ... Sin embargo, la forma especial void * indica que el tipo de datos es un puntero.
+
+volatile
+cambio en el contenido de variables 
+El modificador volatile quiere decir: Esta variable no sólo modifica tu programa sino alguien más. La pregunta es: ¿quién más cambia las variables de tu programa? Pues, un componente de hardware, por ejemplo. ... Los dispositivos de hardware se “mapean” (asignan) a ciertas direcciones de memoria.
+
+Código máquina
+sistema de código interpretado por micro prosadores  
+En Programación, se define como el Código Máquina a aquel que es el proveniente de la tarea de compilación efectuada directamente sobre el Código Fuente, con el que se obtiene posteriormente el Código de Bytes (en inglés, Bytecode) que es la conglomeración de distintos archivos que forman parte de ejecutables para que el ordenador pueda hacer uso del código anteriormente programado.
+
+Comando
+ordenes que el usuario priorizo a un sistema informático 
+Una orden/instrucción (también conocida con el extendido anglicismo/barbarismo comando -calco del inglés command, que significa orden, mandato-) es una instrucción que el usuario proporciona a un sistema informático, desde la línea de órdenes (como una shell) o desde una llamada de programación.
+
+Compilador
+traductor que trasforma un programa de tipo entero 
+Es el proceso por el cual se traducen las instrucciones escritas en un determinado lenguaje de programación a lenguaje máquina. Además de un traductor, se pueden necesitar otros programas para crear un programa objeto ejecutable. Un programa fuente se puede dividir en módulos almacenados en archivos distintos.
+
+Constante
+valor que no puede ser modificado 
+En programación, una constante es un valor que no puede ser alterado/modificado durante la ejecución de un programa, únicamente puede ser leído. Una constante corresponde a una longitud fija de un área reservada en la memoria principal del ordenador, donde el programa almacena valores fijos.
+
+GHz
+unidad de medida electrónica
+El gigahertz (GHZ) es utilizado para describir la velocidad de un procesador de computadora. Los procesadores actuales son medidos en gigahertz, y usualmente están entre 1 y 4 GHz.
+
+Intérprete
+programa que analiza otro tipo de programas 
+En ciencias de la computación, intérprete o interpretador es un programa informático capaz de analizar y ejecutar otros programas, escritos en un lenguaje de alto nivel. Usando un intérprete, un solo archivo fuente puede producir resultados iguales incluso en sistemas sumamente diferentes
+
+Lenguaje de Alto Nivel
+lenguaje con algoritmos adecuados 
+Tienen como objetivo facilitar el trabajo del programador, ya que utilizan unas instrucciones más fáciles de entender. Además, el lenguaje de alto nivel permite escribir códigos mediante idiomas que conocemos entre ellos español e inglés.
+
+Lenguaje de Bajo Nivel
+lenguaje de primera generación 
+Un lenguaje de programación de características de bajo nivel o de primera generación, es aquel en el que sus instrucciones ejercen un control directo sobre el hardware y están condicionados por la estructura física de las computadoras que lo soportan.
+
+Lenguaje de programación
+tipo de lenguaje predefinido
+La función principal de los lenguajes de programación es escribir programas que permiten la comunicación usuario-máquina. Unos programas especiales (compiladores o intérpretes) convierten las instrucciones escritas en código fuente, en instrucciones escritas en lenguaje máquina (0 y 1).
+
+Lenguaje natural
+comunicación entre sistemas y humanos 
+Lenguaje utilizado normalmente por las personas. El objetivo de poder programar ordenadores utilizando lenguaje natural es una vieja idea que todavía no ha podido cumplirse, aunque los sistemas expertos y la inteligencia artificial podrán ayudar en este sentido.
+
+Memoria
+tipo de almacenamiento
+dispositivo que retiene, memoriza o almacena datos informáticos durante algún periodo de tiempo. La memoria proporciona una de las principales funciones de la computación moderna: el almacenamiento de información y conocimiento.
+
+Pseudocódigo
+lenguaje de descripción algorítmico
+Herramienta de análisis de programación. El pseudocódigo es un lenguaje de especificación de algoritmos, de uso fácil y sintaxis similar al lenguaje de programación a utilizar, que permite al programador concentrarse en las estructuras de control, y olvidarse de la sintaxis del lenguaje a utilizar.
+
+ASCII
+Código Estándar Americano para el Intercambio de Información
+(Código Estándar Americano para el Intercambio de Información). Es el formato más común para ficheros de texto usado en ordenadores y muy a menudo en Internet. En un fichero ASCII, cada letra, número o cualquier carácter especial va representado por un número binario de 7 dígitos, por lo que pueden obtenerse un total de 128 caracteres.
